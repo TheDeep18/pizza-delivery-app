@@ -514,3 +514,8 @@ section.status {
 .StripeElement--webkit-autofill {
   background-color: #fefde5 !important;
 }
+
+#footer {
+  color: #fff;
+  background-color: #fe5f1e;
+}
